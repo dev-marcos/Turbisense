@@ -7,3 +7,5 @@ O sensor é baseado em um microcontrolador e utiliza um método óptico para med
 
 O repositório contém todos os arquivos necessários para reproduzir o projeto, incluindo o firmware do microcontrolador, software de auxílio, modelos em 3D e arquivos de CNC para a fabricação da carcaça do sensor, além da placa de circuito impresso (PCI).
 
+
+<img src="imagens/v0_1.jpg" width="400" /> <img src="imagens/v0_2.jpg" width="400" />
